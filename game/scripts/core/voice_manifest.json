@@ -1,0 +1,102 @@
+[
+  {
+    "id": "vo_tomori_01_01",
+    "character": "tomori",
+    "scene": "ch01_awakening",
+    "emotion": "pensive",
+    "text_cn": "我没有眨眼。很疼……",
+    "text_jp": "まばたきは、しなかった。痛かったから……",
+    "file": "vo_tomori_01_01.ogg",
+    "status": "ready"
+  },
+  {
+    "id": "vo_tomori_01_02",
+    "character": "tomori",
+    "scene": "ch01_awakening",
+    "emotion": "sad",
+    "text_cn": "要是她们从此再也不理我……也是理所当然的吧。",
+    "text_jp": "もう見捨てられても、当然だよね……",
+    "file": "vo_tomori_01_02.ogg",
+    "status": "ready"
+  },
+  {
+    "id": "vo_tomori_02_01",
+    "character": "tomori",
+    "scene": "ch02_silence",
+    "emotion": "hesitant",
+    "text_cn": "睦不用道歉的……跳下去是我自己的决定。",
+    "text_jp": "睦ちゃんは謝らなくていいよ。飛び降りたのは、私自身の決まりだから。",
+    "file": "vo_tomori_02_01.ogg",
+    "status": "ready"
+  },
+  {
+    "id": "vo_anon_03_01",
+    "character": "anon",
+    "scene": "ch03_encounter",
+    "emotion": "cheerful",
+    "text_cn": "哟！醒啦？叫爱音就好啦！",
+    "text_jp": "よっ！起きた？愛音でいいよ！",
+    "file": "vo_anon_03_01.ogg",
+    "status": "ready"
+  },
+  {
+    "id": "vo_anon_03_02",
+    "character": "anon",
+    "scene": "ch03_encounter",
+    "emotion": "playful",
+    "text_cn": "你睡相还真是有够老实的，跟摆在博物馆里的展品一样！",
+    "text_jp": "寝相、真面目すぎ！博物館の展示品みたいだよ！",
+    "file": "vo_anon_03_02.ogg",
+    "status": "ready"
+  },
+  {
+    "id": "vo_anon_04_01",
+    "character": "anon",
+    "scene": "ch04_intrusion",
+    "emotion": "proud",
+    "text_cn": "哈喽！高松同学！看，最后两瓶草莓牛奶！",
+    "text_jp": "ハロー！高松さん！見て、最後のいちごミルク！",
+    "file": "vo_anon_04_01.ogg",
+    "status": "ready"
+  },
+  {
+    "id": "vo_tomori_05_01",
+    "character": "tomori",
+    "scene": "ch05_notebook",
+    "emotion": "vulnerable",
+    "text_cn": "后面全都空掉了……再也写不出新的东西了。",
+    "text_jp": "後ろは全部真っ白で……もう何も書けないの。",
+    "file": "vo_tomori_05_01.ogg",
+    "status": "ready"
+  },
+  {
+    "id": "vo_anon_05_01",
+    "character": "anon",
+    "scene": "ch05_notebook",
+    "emotion": "encouraging",
+    "text_cn": "怎么会写不出来！让我来看看未来的主唱大人写的传世名作！",
+    "text_jp": "書けないわけないじゃん！未来のボーカル様の名作、見せてよ！",
+    "file": "vo_anon_05_01.ogg",
+    "status": "ready"
+  },
+  {
+    "id": "vo_anon_06_01",
+    "character": "anon",
+    "scene": "ch06_verdict",
+    "emotion": "confident",
+    "text_cn": "四点半准时等我凯旋归来！只要出院，我们全都能实现！",
+    "text_jp": "四時半に凱旋するから待ってて！退院したら、全部叶うよ！",
+    "file": "vo_anon_06_01.ogg",
+    "status": "ready"
+  },
+  {
+    "id": "vo_tomori_06_01",
+    "character": "tomori",
+    "scene": "ch06_verdict",
+    "emotion": "touched",
+    "text_cn": "……嗯。我等你。",
+    "text_jp": "……うん。待ってる。",
+    "file": "vo_tomori_06_01.ogg",
+    "status": "ready"
+  }
+]

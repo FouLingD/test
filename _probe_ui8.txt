@@ -1,0 +1,5 @@
+start
+inner2 True
+after_open inner2 False say False quick False
+after_close inner2 True
+done

@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/scripts/story/ch01_awakening.rpy", line 97: multiple at clauses are prohibited.
+    show doctor cal at Transform(blur=5) at left_standee  with dissolve(3.0)
+                                           ^
+
+Ren'Py Version: Ren'Py 8.5.3.26051504
+Tue Oct 27 13:09:01 2026

@@ -1,0 +1,282 @@
+[
+  {
+    "filename": "sfx_lock_pick.ogg",
+    "path": "game/audio/sfx/sfx_lock_pick.ogg",
+    "category": "SFX",
+    "chapter": "Ch05",
+    "description": "天台门锁细发卡撬锁声",
+    "epidemic_title": "Doors, Misc, Lock Picking 01",
+    "epidemic_id": "4de74852-90e9-4e01-81da-a95d90bb98e0",
+    "size_bytes": 38589
+  },
+  {
+    "filename": "sfx_metal_door_open.ogg",
+    "path": "game/audio/sfx/sfx_metal_door_open.ogg",
+    "category": "SFX",
+    "chapter": "Ch05",
+    "description": "天台重型铁门合页吱呀开启声",
+    "epidemic_title": "Doors, Metal, Open, Slow, Squeak, Rumble, Creak",
+    "epidemic_id": "ee682f1f-4b60-421c-a675-74ca239b3871",
+    "size_bytes": 94755
+  },
+  {
+    "filename": "sfx_running_corridor.ogg",
+    "path": "game/audio/sfx/sfx_running_corridor.ogg",
+    "category": "SFX",
+    "chapter": "Ch07",
+    "description": "清晨5点医院走廊狂奔脚步声",
+    "epidemic_title": "Footsteps, Human, Running, Tiled Floor, Reverberant Corridor",
+    "epidemic_id": "fe34e9e1-65d6-4a49-b8f4-ac1a0f828c0e",
+    "size_bytes": 269708
+  },
+  {
+    "filename": "sfx_auto_door.ogg",
+    "path": "game/audio/sfx/sfx_auto_door.ogg",
+    "category": "SFX",
+    "chapter": "Ch08",
+    "description": "池袋大商场玻璃感应自动门滑开",
+    "epidemic_title": "Doors, Electric, Automatic, Glass, Slide, Close",
+    "epidemic_id": "0a25e87c-8118-4281-8da5-e6b14628e22c",
+    "size_bytes": 166780
+  },
+  {
+    "filename": "sfx_candy_jar.ogg",
+    "path": "game/audio/sfx/sfx_candy_jar.ogg",
+    "category": "SFX",
+    "chapter": "Ch08",
+    "description": "金平糖玻璃罐软木塞拔开",
+    "epidemic_title": "Objects, Container, Glass Jar, Candy, Open",
+    "epidemic_id": "a15d5b31-f17b-4201-bfe6-6b761b70c120",
+    "size_bytes": 14803
+  },
+  {
+    "filename": "sfx_candy_crunch.ogg",
+    "path": "game/audio/sfx/sfx_candy_crunch.ogg",
+    "category": "SFX",
+    "chapter": "Ch08",
+    "description": "咬碎硬星糖清脆咀嚼声",
+    "epidemic_title": "Food & Drink, Eating, Eat, Bite, Crunch, Peanuts, Single",
+    "epidemic_id": "fead9465-2c21-4c6e-94c0-b667b1a6383f",
+    "size_bytes": 12883
+  },
+  {
+    "filename": "sfx_coin_insert.ogg",
+    "path": "game/audio/sfx/sfx_coin_insert.ogg",
+    "category": "SFX",
+    "chapter": "Ch08",
+    "description": "投币入街机投币槽声",
+    "epidemic_title": "Objects, Coin, Coin Into Slot Machine 02",
+    "epidemic_id": "e67aba81-3323-4f38-84de-d41ef8b3928b",
+    "size_bytes": 86419
+  },
+  {
+    "filename": "sfx_plush_drop.ogg",
+    "path": "game/audio/sfx/sfx_plush_drop.ogg",
+    "category": "SFX",
+    "chapter": "Ch08",
+    "description": "娃娃机企鹅掉入出物口扑通声",
+    "epidemic_title": "Toys, Misc, Padded Object, Soft Play, Throw To Floor",
+    "epidemic_id": "0c26c9bb-0fe7-4c37-9577-89134df33b00",
+    "size_bytes": 12886
+  },
+  {
+    "filename": "sfx_key_unlock.ogg",
+    "path": "game/audio/sfx/sfx_key_unlock.ogg",
+    "category": "SFX",
+    "chapter": "Ch09",
+    "description": "爱音公寓玄关钥匙开锁进门声",
+    "epidemic_title": "Doors, Hardware, Door Lock, Latch, Movement, Unlock, Variations",
+    "epidemic_id": "3758921b-22ab-4223-93db-f18566caa621",
+    "size_bytes": 78829
+  },
+  {
+    "filename": "sfx_clothes_rustle.ogg",
+    "path": "game/audio/sfx/sfx_clothes_rustle.ogg",
+    "category": "SFX",
+    "chapter": "Ch07/Ch09",
+    "description": "穿脱风衣与被窝布料摩擦声",
+    "epidemic_title": "Cloth, Movement, Jacket, Various 01",
+    "epidemic_id": "aec83c28-627b-4d29-9753-34a77429b29a",
+    "size_bytes": 384409
+  },
+  {
+    "filename": "sfx_table_slam.ogg",
+    "path": "game/audio/sfx/sfx_table_slam.ogg",
+    "category": "SFX",
+    "chapter": "Ch10",
+    "description": "RiNG吧台立希愤怒捶打吧台声",
+    "epidemic_title": "Wood, Impact, Wood Floor, Fist Hit, Thud 03",
+    "epidemic_id": "97809131-7892-415d-be3f-cb5d98cc9d08",
+    "size_bytes": 11454
+  },
+  {
+    "filename": "sfx_reverse_rain.ogg",
+    "path": "game/audio/sfx/sfx_reverse_rain.ogg",
+    "category": "SFX",
+    "chapter": "Ch11",
+    "description": "雨滴倒流向天空超现实魔幻升腾",
+    "epidemic_title": "Magic, Spell, Wand, Reversed Whoosh, Build 01",
+    "epidemic_id": "41ec1a39-eb7e-4574-be40-b10630961614",
+    "size_bytes": 55967
+  },
+  {
+    "filename": "sfx_whiteout_swell.ogg",
+    "path": "game/audio/sfx/sfx_whiteout_swell.ogg",
+    "category": "SFX",
+    "chapter": "Ch11",
+    "description": "终曲太阳膨胀吞噬世界白光极光",
+    "epidemic_title": "Designed, Drone, Glowing, Shimmer Pad, Choir",
+    "epidemic_id": "6b6a8587-c95e-4762-9d2f-d2d73756495e",
+    "size_bytes": 707067
+  },
+  {
+    "filename": "sfx_heartbeat_real.ogg",
+    "path": "game/audio/sfx/sfx_heartbeat_real.ogg",
+    "category": "SFX",
+    "chapter": "Ch01/Ch03",
+    "description": "真实人体心跳搏动",
+    "epidemic_title": "Human, Heartbeat, Designed, Heartbeats, Loopable 03",
+    "epidemic_id": "adab3d6d-43c5-4832-a27e-b114ef6ae8bd",
+    "size_bytes": 33205
+  },
+  {
+    "filename": "sfx_door_slide_real.ogg",
+    "path": "game/audio/sfx/sfx_door_slide_real.ogg",
+    "category": "SFX",
+    "chapter": "Ch01-06",
+    "description": "真实病房推拉移门滑行声",
+    "epidemic_title": "Doors, Sliding, Porch Door, Close, Slide",
+    "epidemic_id": "f5342a2d-7609-4363-b233-6ffcbde0ced6",
+    "size_bytes": 58948
+  },
+  {
+    "filename": "bgs_white_noise.ogg",
+    "path": "game/audio/bgs/bgs_white_noise.ogg",
+    "category": "BGS",
+    "chapter": "Ch05",
+    "description": "耳机中播放的白噪音",
+    "epidemic_title": "Rain, General, Tropical, Heavy Monsoon Rain, Jungle 02",
+    "epidemic_id": "f50cddab-6d8f-4bf9-bc4f-d64eef06e093",
+    "size_bytes": 1846340
+  },
+  {
+    "filename": "bgs_rooftop_wind.ogg",
+    "path": "game/audio/bgs/bgs_rooftop_wind.ogg",
+    "category": "BGS",
+    "chapter": "Ch05",
+    "description": "医院天台俯瞰城市的呼啸风声",
+    "epidemic_title": "Wind, General, Wind Urban Strong Wind Blows Howling, Metallic Squeaks 01",
+    "epidemic_id": "e60d5acd-9338-4d2d-b808-fa458c71b189",
+    "size_bytes": 2301145
+  },
+  {
+    "filename": "bgs_bus_ride.ogg",
+    "path": "game/audio/bgs/bgs_bus_ride.ogg",
+    "category": "BGS",
+    "chapter": "Ch07",
+    "description": "清晨公路长途大巴行驶车厢底噪",
+    "epidemic_title": "Vehicles, Bus, Coach, Interior, Onboard, Highway, Seat POV",
+    "epidemic_id": "10375e78-26ea-4c64-be3f-c6d16e4348d3",
+    "size_bytes": 785293
+  },
+  {
+    "filename": "bgs_train_interior.ogg",
+    "path": "game/audio/bgs/bgs_train_interior.ogg",
+    "category": "BGS",
+    "chapter": "Ch07/Ch11",
+    "description": "早班脱轨电车与末班电车行驶声",
+    "epidemic_title": "Trains, Interior, Bullet Train, Shinkansen, Onboard... Japan 02",
+    "epidemic_id": "a4fb7079-8e05-4f1d-b651-128ce684c6ec",
+    "size_bytes": 1679540
+  },
+  {
+    "filename": "bgs_arcade.ogg",
+    "path": "game/audio/bgs/bgs_arcade.ogg",
+    "category": "BGS",
+    "chapter": "Ch08",
+    "description": "三楼街机游戏机厅环境音",
+    "epidemic_title": "Ambience, Public Place, Arcade, Game Hall",
+    "epidemic_id": "ba932f11-32d9-4b80-a0ee-55275e1da919",
+    "size_bytes": 1103428
+  },
+  {
+    "filename": "bgs_restaurant.ogg",
+    "path": "game/audio/bgs/bgs_restaurant.ogg",
+    "category": "BGS",
+    "chapter": "Ch08",
+    "description": "四楼家庭餐厅人声闲聊餐具环境音",
+    "epidemic_title": "Ambience, Restaurant & Bar, Walla, British, Plates, Cutlery, UK",
+    "epidemic_id": "d74844a4-10cd-4ffa-8073-bdebf535cdd9",
+    "size_bytes": 1721036
+  },
+  {
+    "filename": "bgs_crosswalk.ogg",
+    "path": "game/audio/bgs/bgs_crosswalk.ogg",
+    "category": "BGS",
+    "chapter": "Ch08",
+    "description": "20秒斑马线起跑红绿灯提示音",
+    "epidemic_title": "Beeps, General, Traffic Light, Pedestrian Crosswalk, UK, City Hum",
+    "epidemic_id": "72e96f9d-6113-477e-bff8-303e70a7ecc5",
+    "size_bytes": 134655
+  },
+  {
+    "filename": "bgs_aquarium.ogg",
+    "path": "game/audio/bgs/bgs_aquarium.ogg",
+    "category": "BGS",
+    "chapter": "Ch09",
+    "description": "水族馆海底隧道深水嗡鸣与微弱气泡",
+    "epidemic_title": "Ambience, Underwater, Designed Water, Aquarium, Bubbles 13",
+    "epidemic_id": "fd764750-19db-4ea0-8ac5-e99fcc6cb045",
+    "size_bytes": 1122360
+  },
+  {
+    "filename": "bgs_train_overpass.ogg",
+    "path": "game/audio/bgs/bgs_train_overpass.ogg",
+    "category": "BGS",
+    "chapter": "Ch10",
+    "description": "铁路天桥下方铁轨列车疾驰轰鸣",
+    "epidemic_title": "Trains, Electric, Exterior, Bridge, Underneath Railway, Train Pass By 02",
+    "epidemic_id": "0e176e0d-f840-47f9-9a0c-09903b21e470",
+    "size_bytes": 508816
+  },
+  {
+    "filename": "bgs_beach_night.ogg",
+    "path": "game/audio/bgs/bgs_beach_night.ogg",
+    "category": "BGS",
+    "chapter": "Ch11",
+    "description": "夜晚九十九里滨海浪拍击卵石荒滩",
+    "epidemic_title": "Water, Wave, Seaside, Night, Rough Sea, Crickets 01",
+    "epidemic_id": "d959041a-e776-45ca-bc7e-984493581011",
+    "size_bytes": 2626075
+  },
+  {
+    "filename": "bgs_campfire.ogg",
+    "path": "game/audio/bgs/bgs_campfire.ogg",
+    "category": "BGS",
+    "chapter": "Ch11",
+    "description": "卵石堆旁旅人篝火余烬暗红噼啪爆裂",
+    "epidemic_title": "Fire, Burning, Bonfire, Moderate Size, Close, Crackling",
+    "epidemic_id": "db83a82d-d67c-47f4-a9d9-3918df0167e1",
+    "size_bytes": 1807911
+  },
+  {
+    "filename": "bgs_downpour.ogg",
+    "path": "game/audio/bgs/bgs_downpour.ogg",
+    "category": "BGS",
+    "chapter": "Ch11",
+    "description": "海滩垂直倾盆大暴雨",
+    "epidemic_title": "Rain, General, Rain, Heavy, City",
+    "epidemic_id": "52cef977-d1b5-4010-9375-1e08fb6f1580",
+    "size_bytes": 1934292
+  },
+  {
+    "filename": "sfx_pill_drop.ogg",
+    "path": "game/audio/sfx/sfx_pill_drop.ogg",
+    "category": "SFX",
+    "chapter": "Ch01/Ch06",
+    "description": "药瓶摇晃与药丸散落声",
+    "epidemic_title": "Objects, Medical, Drop Pills Into Bottle",
+    "epidemic_id": "578a0142-242e-450a-954f-9868be6c1345",
+    "size_bytes": 76783
+  }
+]

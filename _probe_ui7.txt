@@ -1,0 +1,5 @@
+start
+say_shown True
+after_open say False quick False hist True
+after_hide say True quick False
+done

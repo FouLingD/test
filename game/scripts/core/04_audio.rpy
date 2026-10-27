@@ -1,0 +1,91 @@
+## 04_audio.rpy - 音频常量别名与快速播放宏
+## 严格对标 03_visual_novel_audio_specification.md 规范
+
+define bgm_gloomy = "audio/bgm/bgm_beginning_3_gloomy.mp3"
+define bgm_relaxed = "audio/bgm/bgm_beginning_5_relaxed.mp3"
+define bgm_playful = "audio/bgm/bgm_happy_bop.mp3"
+define bgm_soaring = "audio/bgm/bgm_riding_on_a_wave.mp3"
+define bgm_dreamy = "audio/bgm/bgm_dreams.ogg"
+define bgm_daily = "audio/bgm/bgm_daily.ogg"
+define bgm_painful_memory = "audio/bgm/bgm_painful_memory.mp3"
+define bgm_music_box = "audio/bgm/bgm_music_box_main.mp3"
+define bgm_dialogue_warm = "audio/bgm/bgm_dialogue_warm.mp3"
+
+# 角色主题曲
+define bgm_anon_theme = "audio/bgm/bgm_anon_theme.mp3"
+define bgm_anon_playful = "audio/bgm/bgm_anon_playful.mp3"
+define bgm_anon_touched = "audio/bgm/bgm_anon_touched.mp3"
+define bgm_anon_vulnerable = "audio/bgm/bgm_anon_vulnerable.mp3"
+
+# 场景与特殊
+define bgm_looking_up = "audio/bgm/bgm_looking_up.mp3"
+define bgm_seaside_view = "audio/bgm/bgm_above_the_mountains.mp3"
+define bgm_tense_1 = "audio/bgm/bgm_climax_phase1.ogg"
+define bgm_tense_2 = "audio/bgm/bgm_climax_phase2.ogg"
+define bgm_tense_rest = "audio/bgm/bgm_climax_rest.ogg"
+define bgm_tense_3 = "audio/bgm/bgm_climax_phase4.ogg"
+define bgm_banter = "audio/bgm/bgm_banter_boops.ogg"
+define bgm_opening = "audio/bgm/bgm_opening.mp3"
+
+# 剧情中实际调用、但此前缺少别名的曲目
+define bgm_searching = "audio/bgm/bgm_searching.mp3"
+define bgm_happy_bop = "audio/bgm/bgm_happy_bop.mp3"
+define bgm_work = "audio/bgm/bgm_work.mp3"
+define bgm_routine = "audio/bgm/bgm_routine.mp3"
+define bgm_joyful = "audio/bgm/bgm_joyful.ogg"
+define bgm_night_lily = "audio/bgm/bgm_night_lily.mp3"
+define bgm_autumn_leaves = "audio/bgm/bgm_autumn_leaves.mp3"
+define bgm_beyond = "audio/bgm/bgm_beyond.mp3"
+define bgm_spelunking = "audio/bgm/08 Kirk Osamayo - Spelunking.mp3"
+
+# 环境音 BGS
+define bgs_hospital = "audio/bgs/bgs_hospital_ambience.ogg"
+define bgs_rain = "audio/bgs/bgs_rain_heavy.ogg"
+define bgs_white_noise = "audio/bgs/bgs_white_noise.ogg"
+define bgs_rooftop_wind = "audio/bgs/bgs_rooftop_wind.ogg"
+define bgs_bus_ride = "audio/bgs/bgs_bus_ride.ogg"
+define bgs_train_interior = "audio/bgs/bgs_train_interior.ogg"
+define bgs_arcade = "audio/bgs/bgs_arcade.ogg"
+define bgs_restaurant = "audio/bgs/bgs_restaurant.ogg"
+define bgs_crosswalk = "audio/bgs/bgs_crosswalk.ogg"
+define bgs_aquarium = "audio/bgs/bgs_aquarium.ogg"
+define bgs_train_overpass = "audio/bgs/bgs_train_overpass.ogg"
+define bgs_beach_night = "audio/bgs/bgs_beach_night.ogg"
+define bgs_campfire = "audio/bgs/bgs_campfire.ogg"
+define bgs_downpour = "audio/bgs/bgs_downpour.ogg"
+
+# 音效 SFX
+define sfx_heartbeat = "audio/sfx/sfx_heartbeat_real.ogg"
+define sfx_heartbeat_synth = "audio/sfx/sfx_heartbeat.ogg"
+define sfx_iv_drip = "audio/sfx/sfx_iv_drip.ogg"
+define sfx_door_slide = "audio/sfx/sfx_door_slide_real.ogg"
+define sfx_door_slide_orig = "audio/sfx/sfx_door_slide.ogg"
+define sfx_door_close = "audio/sfx/sfx_door_close.ogg"
+define sfx_footsteps = "audio/sfx/sfx_footsteps.ogg"
+define sfx_page_turn = "audio/sfx/sfx_page_turn.ogg"
+define sfx_glass_clink = "audio/sfx/sfx_glass_clink.ogg"
+define sfx_bell = "audio/sfx/sfx_bell.ogg"
+define sfx_rain = "audio/sfx/sfx_rain.ogg"
+define sfx_strike = "audio/sfx/sfx_strike.ogg"
+define sfx_impact = "audio/sfx/sfx_impact.ogg"
+define sfx_ringing = "audio/sfx/sfx_ringing.ogg"
+
+
+# Epidemic Sound 新增实录音效
+define sfx_lock_pick = "audio/sfx/sfx_lock_pick.ogg"
+define sfx_metal_door_open = "audio/sfx/sfx_metal_door_open.ogg"
+define sfx_running_corridor = "audio/sfx/sfx_running_corridor.ogg"
+define sfx_auto_door = "audio/sfx/sfx_auto_door.ogg"
+define sfx_candy_jar = "audio/sfx/sfx_candy_jar.ogg"
+define sfx_candy_crunch = "audio/sfx/sfx_candy_crunch.ogg"
+define sfx_coin_insert = "audio/sfx/sfx_coin_insert.ogg"
+define sfx_plush_drop = "audio/sfx/sfx_plush_drop.ogg"
+define sfx_key_unlock = "audio/sfx/sfx_key_unlock.ogg"
+define sfx_clothes_rustle = "audio/sfx/sfx_clothes_rustle.ogg"
+define sfx_table_slam = "audio/sfx/sfx_table_slam.ogg"
+define sfx_pill_drop = "audio/sfx/sfx_pill_drop.ogg"
+define sfx_reverse_rain = "audio/sfx/sfx_reverse_rain.ogg"
+define sfx_whiteout_swell = "audio/sfx/sfx_whiteout_swell.ogg"
+define sfx_heartbeat_real = "audio/sfx/sfx_heartbeat_real.ogg"
+define sfx_door_slide_real = "audio/sfx/sfx_door_slide_real.ogg"
+

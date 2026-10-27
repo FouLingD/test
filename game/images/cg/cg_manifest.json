@@ -1,0 +1,240 @@
+[
+  {
+    "file": "CG01_高松灯常服吞药.png",
+    "seed": 3322718649,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG02_医院醒来看见爱音.png",
+    "seed": 2390590350,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG03_爱音医院弹吉他.png",
+    "seed": 236803183,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG04_侧卧看星星.png",
+    "seed": 833307463,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG05_牵手从医院逃.png",
+    "seed": 2847086187,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG06_家病号服半脱亲吻.png",
+    "seed": 593158072,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG07_爱音给灯换风衣.png",
+    "seed": 139509403,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG08_公交车上.png",
+    "seed": 3726128184,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG09_海边.png",
+    "seed": 4108957673,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG10_灯婚纱捧花海.png",
+    "seed": 2753551582,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG11_病房窗前雪与药瓶.png",
+    "seed": 536279287,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG12_轮椅走廊.png",
+    "seed": 3962806731,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG13_天台抓住手腕.png",
+    "seed": 1598125817,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG14_诊室被宣告.png",
+    "seed": 3652312568,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG15_音乐室钢琴.png",
+    "seed": 257594676,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG16_雨中奔跑.png",
+    "seed": 2660910478,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG17_假面舞台祥子.png",
+    "seed": 815120840,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG18_咖啡馆soyo.png",
+    "seed": 1572967233,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG20_山顶日出重生.png",
+    "seed": 2227175580,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG21_教室校服.png",
+    "seed": 2397127064,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG24_校服_双人低位大天空.png",
+    "seed": 78757357,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG25_校服_居中大主体中景.png",
+    "seed": 2136702592,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG26_校服_远景环境为主.png",
+    "seed": 3081708232,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "CG27_校服_居中竖构图中景.png",
+    "seed": 2336790527,
+    "model": "nai-diffusion-5-curated",
+    "resolution": "2432x1664",
+    "cost_anlas": 1
+  },
+  {
+    "file": "01_吉他.png",
+    "seed": 4064061767,
+    "model": "nai-diffusion-5-full",
+    "resolution": "832x1216",
+    "cost_anlas": 0
+  },
+  {
+    "file": "02_笔记本.png",
+    "seed": 571874069,
+    "model": "nai-diffusion-5-full",
+    "resolution": "832x1216",
+    "cost_anlas": 0
+  },
+  {
+    "file": "03_药片.png",
+    "seed": 879982298,
+    "model": "nai-diffusion-5-full",
+    "resolution": "832x1216",
+    "cost_anlas": 0
+  },
+  {
+    "file": "04_水杯.png",
+    "seed": 2151470235,
+    "model": "nai-diffusion-5-full",
+    "resolution": "832x1216",
+    "cost_anlas": 0
+  },
+  {
+    "file": "05_眼镜.png",
+    "seed": 319015254,
+    "model": "nai-diffusion-5-full",
+    "resolution": "832x1216",
+    "cost_anlas": 0
+  },
+  {
+    "file": "06_吉他拨片.png",
+    "seed": 855365084,
+    "model": "nai-diffusion-5-full",
+    "resolution": "832x1216",
+    "cost_anlas": 0
+  },
+  {
+    "file": "07_耳机.png",
+    "seed": 1461552049,
+    "model": "nai-diffusion-5-full",
+    "resolution": "832x1216",
+    "cost_anlas": 0
+  },
+  {
+    "file": "08_智能手机.png",
+    "seed": 515809933,
+    "model": "nai-diffusion-5-full",
+    "resolution": "832x1216",
+    "cost_anlas": 0
+  },
+  {
+    "file": "09_花束.png",
+    "seed": 2153948613,
+    "model": "nai-diffusion-5-full",
+    "resolution": "832x1216",
+    "cost_anlas": 0
+  },
+  {
+    "file": "10_医用点滴袋.png",
+    "seed": 894403454,
+    "model": "nai-diffusion-5-full",
+    "resolution": "832x1216",
+    "cost_anlas": 0
+  }
+]
